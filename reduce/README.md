@@ -1,4 +1,5 @@
 # Result for reduce add for array
+- can use for N <= 2048
 
 ## time for interleaved
 
