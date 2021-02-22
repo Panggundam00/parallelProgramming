@@ -1,4 +1,5 @@
 # Result for metrix add
+- can use for N <= 32
 
 ## time for metrix add
 
