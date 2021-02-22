@@ -2,9 +2,9 @@
 
 ## time for interleaved
 
-![](https://github.com/Panggundam00/parallelProgramming/blob/master/singlethreads.png)
+![](https://github.com/Panggundam00/parallelProgramming/blob/master/reduce/interleavedTime.png)
 
 
 ## time for contiguous
 
-![](https://github.com/Panggundam00/parallelProgramming/blob/master/multiplethreads.png)
+![](https://github.com/Panggundam00/parallelProgramming/blob/master/reduce/contiguous.png)
